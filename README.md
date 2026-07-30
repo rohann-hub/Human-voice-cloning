@@ -13,6 +13,7 @@
 ![Audio](https://img.shields.io/badge/Audio-Processing-8A2BE2)
 ![Speech](https://img.shields.io/badge/Speech-Synthesis-FF6F61)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-success?logo=opensourceinitiative&logoColor=white)
+![Qwen3-TTS](https://img.shields.io/badge/Qwen3--TTS-Voice%20Model-7B61FF?logo=alibabacloud&logoColor=white)
 ![MIT](https://img.shields.io/badge/License-MIT-blue?logo=opensourceinitiative&logoColor=white)
 
 
